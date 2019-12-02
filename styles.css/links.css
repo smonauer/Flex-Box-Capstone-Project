@@ -1,0 +1,32 @@
+.navbar .link{
+    display: block;
+    text-align: center;
+    padding: 1em;
+    text-decoration: none;
+    background: mediumturquoise;
+    color: white;
+}
+
+.navbar .link:hover,
+.navbar .link:active{
+    color:mediumturquoise ;
+    background: white;
+}
+
+.navbar .link-left,
+.navbar .link-right {
+    display: flex;
+    flex: 1;
+}
+
+.navbar .link {
+    width: auto;
+}
+
+.navbar .link-right {
+    justify-content: flex-end;
+}
+
+.navbar .toggle {
+    display: none;
+}

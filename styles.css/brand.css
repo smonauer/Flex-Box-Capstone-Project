@@ -1,0 +1,12 @@
+.navbar .brand{
+    width: 10em;
+    text-align: center;
+    padding: 1em;
+    color: white;
+    background: mediumturquoise;
+}
+
+.navbar a{
+    text-decoration: none;
+    font-family: 'IM Fell English SC', serif;
+}

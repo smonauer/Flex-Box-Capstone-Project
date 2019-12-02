@@ -1,0 +1,17 @@
+.navbar{
+    background-color: darkcyan;
+}
+
+.navbar div{
+    display: none;
+}
+
+.navbar .toogle,
+.navbar .brand{
+    display: inline-block;
+}
+
+.navbar .toogle{
+    padding: 1em;
+    color: black;
+}
