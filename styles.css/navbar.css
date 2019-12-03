@@ -6,12 +6,12 @@
     display: none;
 }
 
-.navbar .toogle,
+.navbar .toggle,
 .navbar .brand{
     display: inline-block;
 }
 
-.navbar .toogle{
+.navbar .toggle{
     padding: 1em;
     color: black;
 }
